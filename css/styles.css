@@ -1,0 +1,27 @@
+h1 {
+  color: rgb(255, 0, 0);
+  text-align: center;
+  line-height:normal; 
+
+}
+
+h2 {
+  color: blue;
+  font-style: italic;
+  text-align: center;
+  font-family: marker;
+}
+
+p {
+  font-style: italic;
+  font-family: sans-serif;
+  font-weight: bolder;
+
+}
+
+ul {
+  color: rgb(156, 16, 221);
+  font-size: 20px;
+  line-height: 30px;
+  
+}
